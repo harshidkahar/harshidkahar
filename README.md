@@ -51,9 +51,9 @@ A background data transformation pipeline for high-volume, scheduled ETL operati
 
 ## 🔗 Let’s Connect
 
-- ![LinkedIn Logo](https://cdn-icons-png.flaticon.com/512/174/174857.png) [LinkedIn](https://www.linkedin.com/in/harshidkahar/)
-- 📧 harshid10789@gmail.com / harshidkahar@gmail.com
-- 📱 +91 9879313011
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshidkahar/)
+- 📧 Email: harshid10789@gmail.com / harshidkahar@gmail.com
+- 📱 Phone: +91 9879313011
 
 ---
 
