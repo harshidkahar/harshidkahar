@@ -2,7 +2,7 @@
 
 ### 🚀 Technical Architect | Backend Specialist | API Integrator
 
-🔧 I’m a Full Stack Developer with **15+ years** of experience building scalable, secure, and production-grade systems using **.NET Core**, **Clean Architecture**, **REST APIs**, and **Cloud-Native** technologies. I focus primarily on **Backend/API development**, but I also take full ownership of **end-to-end project delivery** — from requirement analysis to deployment and integration.
+🔧 I’m a Full Stack Developer with **16+ years** of experience building scalable, secure, and production-grade systems using **.NET Core**, **Clean Architecture**, **REST APIs**, and **Cloud-Native** technologies. I focus primarily on **Backend/API development**, but I also take full ownership of **end-to-end project delivery** — from requirement analysis to deployment and integration.
 
 ---
 
